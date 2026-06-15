@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat", Arial, sans-serif;
+    box-sizing: border-box;
+}
+
+.Background{
+    width: 1080px;
+    height: 2340px;
+    background-color: honeydew;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.Background FirstHalf {
+    background: linear-gradient(45deg, rgb(211, 0, 0), rgb(127, 0, 0));
+    border-radius: 20px;
+    color: honeydew;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin: 20%;
+    text-align: center;
+}
+
+.Background FirstHalf biggie{
+    font-size: 50px;
+    margin: 1%;
+}
+
+.Background FirstHalf half{
+    font-size: 45px;
+    margin: 1%;
+}
+
+.Background FirstHalf tiny{
+    font-size: 35px;
+    margin: 1%;
+}
+.Background SecondHalf{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.Background SecondHalf img{
+    width: 500px;
+    height: auto;
+}
+
+.Background ThirdHalf{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}

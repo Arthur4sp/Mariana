@@ -53,6 +53,8 @@
     font-size: 25px;
     text-align: center;
     width: 370px;
+    padding: 10px;
+    backgroun-color: rgb(255,200,216);
 }
 
 .Background SecondHalf .apaixonados{
@@ -80,13 +82,14 @@
 .Background ThirdHalf .lembra{
     background-color: rgb(255,143,177);
     display: flex;
-    font-size: 25px;
+    font-size: 22px;
     color: rgb(255,241,245);
     flex-direction: column;
     justify-content: space-evenly;
     align-items: center;
     width: 40%;
     border-radius: 7px;
+    text-align: center;
 }
 
 .Background ThirdHalf .lembra #diasJuntos{

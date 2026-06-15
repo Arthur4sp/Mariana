@@ -6,9 +6,9 @@
 }
 
 .Background{
-    width: 100%;
-    height: 100%;
-    background-color: rgb(255,241,245);
+    background: url(imgs/icon/Polish_20260615_060934697.jpg);
+    background-position: center;
+    background-size: cover;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
